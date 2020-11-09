@@ -1,13 +1,15 @@
-BackGrounds/
+BackGrounds/*
 Copying.rtf
-Fonts/
+Fonts/*
 Help 2.3.chm
 History.ini
 History.txt
-Language/
-Modules/
+Language/*
+Modules/*
+!Modules/HouseOfMercy.vbi
+!Modules/HouseOfMercy.vbm
 PlanDef.ini
-Templates/
+Templates/*
 !Templates/Empty/
 !Templates/Empty/Empty.sch
 VisioBible.exe
